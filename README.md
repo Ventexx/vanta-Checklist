@@ -5,7 +5,7 @@
 
 ---
 
-A minimal, keyboard-first checklist app. Single HTML file, no dependencies, no server — just open it in a browser.
+A minimal checklist app. Single HTML file, no dependencies, no server — just open it in a browser.
 
 ---
 
